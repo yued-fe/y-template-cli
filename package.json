@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/yued-fe/y-template-cli/issues"
   },
-  "homepage": "https://github.com/yued-fe/y-template-cli",
+  "homepage": "https://github.com/yued-fe/y-template-cli#readme",
   "scripts": {},
   "files": [
     "lib/",
