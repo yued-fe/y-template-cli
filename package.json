@@ -1,0 +1,31 @@
+{
+  "name": "y-template-cli",
+  "version": "0.0.1",
+  "author": "yued-fe",
+  "license": "MIT",
+  "description": "A simple CLI for scaffolding front-end projects.",
+  "bin": {
+    "y-template": "bin/y-template",
+    "y-template-init": "bin/y-template-init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yued-fe/y-template-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yued-fe/y-template-cli/issues"
+  },
+  "homepage": "https://github.com/yued-fe/y-template-cli",
+  "scripts": {},
+  "files": [
+    "lib/",
+    "bin/"
+  ],
+  "dependencies": {
+    "download-git-repo": "git+https://github.com/flipxfx/download-git-repo.git#direct",
+    "vue-cli": "^2.8.2"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
